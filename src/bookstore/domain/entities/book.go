@@ -5,6 +5,7 @@ import "time"
 type Book struct {
 	Id          int64
 	Title       string
+	Writer      string
 	Pubication  string
 	Number      int
 	IsActivated bool
