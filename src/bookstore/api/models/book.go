@@ -1,4 +1,4 @@
-package value_types
+package api_models
 
 import "time"
 

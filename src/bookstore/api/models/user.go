@@ -1,4 +1,4 @@
-package value_types
+package api_models
 
 type User struct {
 	Id          int64  `json:"id"`
